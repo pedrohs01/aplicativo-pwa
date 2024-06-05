@@ -1,0 +1,23 @@
+{
+  "name": "Progressive Web app",
+  "short_name": "PWA",
+  "start_url": "/aplicativo-pwa/",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "euro192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "euro.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "euro-real.png",
+      "sizes": "150x150",
+      "type": "image/png"
+    }
+  ]
+}
