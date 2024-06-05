@@ -2,6 +2,7 @@
   "name": "Progressive Web app",
   "short_name": "PWA",
   "start_url": "/aplicativo-pwa/",
+  "background_color": "#14cd29",
   "display": "standalone",
   "icons": [
     {
